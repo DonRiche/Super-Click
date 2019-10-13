@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Captain America",
+        "image": "images/capAmerica.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Captain Marvel",
+        "image": "images/capMarvel.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Colossus",
+        "image": "images/colossaus.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Deadpool",
+        "image": "images/deadpool.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Hulk",
+        "image": "images/hulk.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Iron Man",
+        "image": "images/ironman.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Magneto",
+        "image": "images/magneto.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Spider Man",
+        "image": "images/spiderman.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "Thor",
+        "image": "images/thor.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "Wolverine",
+        "image": "images/wolverine.jpeg"
+    }
+]
