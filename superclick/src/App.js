@@ -5,7 +5,7 @@ import heroes from "./hero.json";
 import Navbar from "./components/NavBar"
 
 class App extends Component {
-  // Setting this.state.friends to the friends json array
+  // Setting this.state.heroes to the heroes json array
   state = {
     heroes
   };

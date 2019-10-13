@@ -8,9 +8,6 @@ function HeroCard(props) {
                 <img alt={props.name} src={props.image} />
             </div>
 
-            <span onClick={() => props.removeHero(props.id)} className="remove">
-                𝘅
-      </span>
         </div>
     );
 }
