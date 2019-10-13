@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import HeroCard from "./components/HeroCard";
 import Wrapper from "./components/Wrapper";
-import Title from "./components/Title";
 import heroes from "./hero.json";
+import Navbar from "./components/NavBar"
 
 class App extends Component {
   // Setting this.state.friends to the friends json array
@@ -21,7 +21,7 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        <Title>Heroes List</Title>
+        <Navbar></Navbar>
         {this.state.heroes.map(hero => (
           <HeroCard
             removeHero={this.removeHero}

@@ -1,0 +1,18 @@
+.navbar{
+    background-image:linear-gradient(red,rgb(255, 196, 0));
+    position: fixed;
+    left: -1px;
+    width: 100%;
+    color: #fff;
+    font-size: calc(10px + 14 * (100vw - 320px)/ 800);
+    z-index: 99;
+    display: block;
+    box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+}
+
+.navbar li{
+display: inline-block;
+width: 30%;
+padding: 20px;
+text-align: center;
+}
