@@ -2,51 +2,61 @@
     {
         "id": 1,
         "name": "Captain America",
-        "image": "images/capAmerica.jpeg"
+        "image": "images/capAmerica.jpeg",
+        "hasBeenPushed": false
     },
     {
         "id": 2,
         "name": "Captain Marvel",
-        "image": "images/capMarvel.jpeg"
+        "image": "images/capMarvel.jpeg",
+        "hasBeenPushed": false
     },
     {
         "id": 3,
         "name": "Colossus",
-        "image": "images/colossaus.jpeg"
+        "image": "images/colossaus.jpeg",
+        "hasBeenPushed": false
     },
     {
         "id": 4,
         "name": "Deadpool",
-        "image": "images/deadpool.jpeg"
+        "image": "images/deadpool.jpeg",
+        "hasBeenPushed": false
     },
     {
         "id": 5,
         "name": "Hulk",
-        "image": "images/hulk.jpeg"
+        "image": "images/hulk.jpeg",
+        "hasBeenPushed": false
     },
     {
         "id": 6,
         "name": "Iron Man",
-        "image": "images/ironman.jpeg"
+        "image": "images/ironman.jpeg",
+        "hasBeenPushed": false
     },
     {
         "id": 7,
         "name": "Magneto",
-        "image": "images/magneto.jpeg"
+        "image": "images/magneto.jpeg",
+        "hasBeenPushed": false
     },
     {
         "id": 8,
         "name": "Spider Man",
-        "image": "images/spiderman.jpeg"
+        "image": "images/spiderman.jpeg",
+        "hasBeenPushed": false
     },
     {
         "id": 9,
         "name": "Thor",
-        "image": "images/thor.jpeg"
+        "image": "images/thor.jpeg",
+        "hasBeenPushed": false
     },
     {
         "id": 10,
         "name": "Wolverine",
-        "image": "images/wolverine.jpeg"
+        "image": "images/wolverine.jpeg",
+        "hasBeenPushed": false
     }
 ]

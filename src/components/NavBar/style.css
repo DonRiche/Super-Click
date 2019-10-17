@@ -13,6 +13,6 @@
 .navbar li{
 display: inline-block;
 width: 30%;
-padding: 10px;
 text-align: center;
+padding-top: 20px;
 }

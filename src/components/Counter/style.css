@@ -1,0 +1,8 @@
+.score{
+    display: inline-block;
+}
+.topScore{
+    display: inline-block;
+    padding-left: 10px;
+
+} 

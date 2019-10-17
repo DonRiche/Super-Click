@@ -1,7 +1,8 @@
 import React from "react";
 import "./style.css";
+import Counter from "../Counter/counter";
 
-function NavBar(props) {
+function NavBar({ score, topScore }) {
     return (
         <div>
             <nav className="navbar">
@@ -10,12 +11,12 @@ function NavBar(props) {
                         <a href="/">SUPER-CLICK</a>
                     </li>
                     <li>Click and image to begin!</li>
-                    <li>Score: 0 | Top Score: 0</li>
+                    <li><Counter score={score} topScore={topScore} /></li>
                 </ul>
             </nav>
 
 
-        </div>
+        </div >
     );
 }
 
