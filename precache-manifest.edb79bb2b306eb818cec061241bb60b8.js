@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30ae881775629efd1ea17a166321c00f",
+    "revision": "3c06e97c98709602780247e3dba03ac1",
     "url": "/DonRiche/Super-Click/index.html"
   },
   {
-    "revision": "29e6191dd576ebfd9c8a",
-    "url": "/DonRiche/Super-Click/static/css/main.a551d1d3.chunk.css"
+    "revision": "c878a50858f5b5974765",
+    "url": "/DonRiche/Super-Click/static/css/main.682439b1.chunk.css"
   },
   {
     "revision": "b5608ed5b4245b4029a8",
     "url": "/DonRiche/Super-Click/static/js/2.07799b58.chunk.js"
   },
   {
-    "revision": "29e6191dd576ebfd9c8a",
+    "revision": "c878a50858f5b5974765",
     "url": "/DonRiche/Super-Click/static/js/main.e04a927d.chunk.js"
   },
   {
