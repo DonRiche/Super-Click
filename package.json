@@ -2,7 +2,7 @@
   "name": "superclick",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/DonRiche/Super-Click",
+  "homepage": "https://donriche.github.io/Super-Click/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.2",

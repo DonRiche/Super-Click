@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DonRiche/Super-Click/precache-manifest.b60491513991ac7dd0e5fa3a65b0ad1d.js"
+  "/DonRiche/Super-Click/precache-manifest.bb58a21812052cf40fb3734359934f2f.js"
 );
 
 self.addEventListener('message', (event) => {
