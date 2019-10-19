@@ -8,7 +8,7 @@ function NavBar({ score, topScore }) {
             <nav className="navbar">
                 <ul>
                     <li className="brand">
-                        <a href="/">SUPER-CLICK</a>
+                        <a href="https://donriche.github.io/Super-Click/">SUPER-CLICK</a>
                     </li>
                     <li>Click and image to begin!</li>
                     <li><Counter score={score} topScore={topScore} /></li>
